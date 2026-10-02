@@ -1,1 +1,2 @@
-# ejercicio-examen-simulacro3
+# ejercicio-examen-simulacro
+Ejercicio: crea un fichero solucion.txt con tu nombre
